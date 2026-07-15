@@ -4,18 +4,9 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=figurophobia&label=Profile+Views&color=A855F7&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/figurophobia?label=Follow&style=flat&color=9d4edd&labelColor=0D0221)](https://github.com/figurophobia)
+[![Total Stars](https://img.shields.io/github/stars/figurophobia?label=Total+Stars&style=flat&color=a855f7&labelColor=0D0221)](https://github.com/figurophobia)
 
 </div>
-
----
-
-### 👋 About Me
-
-- 🎓 4th-year **Computer Engineering** student at [Universidade de Santiago de Compostela (USC)](https://www.usc.gal/)
-- 📍 Based in Santiago de Compostela, Galicia, Spain
-- 🐍 I build small tools that automate things I'm too lazy to do by hand — from eBay sniping clients to pixel-art filters
-- 🌱 Currently exploring web automation, computer vision filters, and Android development
-- ⚡ Fun fact: my repos range from Kotlin filter apps to a Python client for a niche eBay sniping service
 
 ---
 
@@ -49,6 +40,14 @@
 </table>
 
 </div>
+
+---
+
+### 👋 About Me
+
+- 🎓 4th-year **Computer Engineering** student at [Universidade de Santiago de Compostela (USC)](https://www.usc.gal/)
+- 📍 Based in Santiago de Compostela, Galicia, Spain
+- 🌱 Currently exploring web automation, homelabs, shaders, Android dev, and dipping my toes into game dev
 
 ---
 
