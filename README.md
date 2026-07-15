@@ -28,7 +28,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=figurophobia&hide_border=true&background=0D0221&ring=9D4EDD&fire=A855F7&currStreakLabel=E0AAFF&currStreakNum=E0AAFF&sideLabels=E0AAFF&sideNums=E0AAFF&dates=B18AFF&stroke=9D4EDD&border=9D4EDD" alt="GitHub Streak Stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=figurophobia&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=-1&row=1" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=figurophobia&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=-1&row=1" alt="GitHub Trophies" />
 
 </div>
 
