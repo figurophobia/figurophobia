@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=A855F7&background=0D0221&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there%2C+I'm+David+%F0%9F%91%8B;Computer+Engineering+Student+%40+USC;Building+things+in+Python%2C+Kotlin+%26+JS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=A855F7&background=0D0221&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there%2C+I'm+David+%F0%9F%91%8B;Computer+Engineering+Student+%40+USC" alt="Typing SVG" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=figurophobia&label=Profile+Views&color=A855F7&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/figurophobia?label=Follow&style=flat&color=9d4edd&labelColor=0D0221)](https://github.com/figurophobia)
